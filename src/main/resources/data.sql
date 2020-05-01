@@ -1,0 +1,12 @@
+insert into restaurant (name, cuisine_id) values ('Brazil, Brazil!',1);
+insert into restaurant (name, cuisine_id) values ('Fuki Sushi',2);
+insert into restaurant (name, cuisine_id) values ('La Tasca',3);
+insert into restaurant (name, cuisine_id) values ('Flame',1);
+insert into restaurant (name, cuisine_id) values ('Blowfish',2);
+insert into restaurant (name, cuisine_id) values ('Plaza de Toros',3);
+insert into restaurant (name, cuisine_id) values ('Favela',1);
+insert into restaurant (name, cuisine_id) values ('Churrascaria',1);
+insert into restaurant (name, cuisine_id) values ('Rio',1);
+insert into restaurant (name, cuisine_id) values ('Impanema',1);
+insert into restaurant (name, cuisine_id) values ('Vaqueiro',1);
+insert into restaurant (name, cuisine_id) values ('Brazilian Heat',1);
